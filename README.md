@@ -7,13 +7,13 @@ This project uses AI and machine learning techniques to analyze football games. 
 ![Screenshot](output_videos/Screenshot.png)
 
 ## Modules Used 
--**YOLO**: For real-time object detection of players.
--**OpenCV**: For processing video footage and extracting key frames.
--**Python**: The main programming language used to implement the system.
--**NumPy**: For numerical operations and data manipulation.
--**Pandas**: For organizing and processing tabular data.
--**Matplotlib**: For visualizing the data and generating plots.
--**TensorFlow**: If you're retraining or fine-tuning the model.
+-**YOLO**: For real-time object detection of players.<br>
+-**OpenCV**: For processing video footage and extracting key frames.<br>
+-**Python**: The main programming language used to implement the system.<br>
+-**NumPy**: For numerical operations and data manipulation.<br>
+-**Pandas**: For organizing and processing tabular data.<br>
+-**Matplotlib**: For visualizing the data and generating plots.<br>
+-**TensorFlow**: If you're retraining or fine-tuning the model.<br>
 
 ## Training Models
 
@@ -27,10 +27,10 @@ This project uses AI and machine learning techniques to analyze football games. 
 
 To run this project, you need to have the following requirements installed:
 
--Python 3.x
--ultralytics
--supervision
--OpenCV
--NumPy
--Matplotlib
--Pandas
+-Python 3.x<br>
+-ultralytics<br>
+-supervision<br>
+-OpenCV<br>
+-NumPy<br>
+-Matplotlib<br>
+-Pandas<br>
