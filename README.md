@@ -17,11 +17,11 @@ This project uses AI and machine learning techniques to analyze football games. 
 
 ## Training Models
 
--[Link to Modules](https://drive.google.com/file/d/1FSucb8Jj01alwZ9WoOPpNiT7erbK2Vld/view?usp=sharing)
+- [Link to Modules](https://drive.google.com/file/d/1FSucb8Jj01alwZ9WoOPpNiT7erbK2Vld/view?usp=sharing)
 
 ## Sample Video
 
--[Link to Video](https://drive.google.com/file/d/164s_5Ba1_W_wboYO7IHgTcsljj8IWBG1/view?usp=sharing)
+- [Link to Video](https://drive.google.com/file/d/164s_5Ba1_W_wboYO7IHgTcsljj8IWBG1/view?usp=sharing)
 
 ## Requirements
 
